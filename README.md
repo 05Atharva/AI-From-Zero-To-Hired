@@ -4,7 +4,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/05Atharva/AI-From-Zero-To-Hired?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/05Atharva/AI-From-Zero-To-Hired?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/05Atharva/AI-From-Zero-To-Hired?style=flat-square)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/05Atharva/AI-From-Zero-To-Hired/blob/main/Day01_Numpy_Basics/Day01_Numpy.ipynb)
 
 
 
