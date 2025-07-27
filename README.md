@@ -1,5 +1,14 @@
-# AI-From-Zero-To-Hired
 # 🚀 AI-From-Zero-To-Hired
+
+![GitHub last commit](https://img.shields.io/github/last-commit/05Atharva/AI-From-Zero-To-Hired?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/05Atharva/AI-From-Zero-To-Hired?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/05Atharva/AI-From-Zero-To-Hired?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/05Atharva/AI-From-Zero-To-Hired?style=flat-square)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/05Atharva/AI-From-Zero-To-Hired/blob/main/Day01_Numpy_Basics/Day01_Numpy.ipynb)
+
+
+
+---
 
 Welcome to my 30-day journey from basics to job‑ready skills in **AI, Machine Learning, and Data Science**.  
 Every day I spend 30–45 minutes learning a focused topic, practicing through Jupyter Notebooks, and pushing my work here.  
@@ -8,13 +17,14 @@ This repository is both my learning log and a free open resource for others!
 ---
 
 ## 📅 Schedule
+✅ **Start Date:** 28‑July‑2025  
+✅ **Daily Time:** 6:00 PM IST  
 ✅ **Duration:** 30 days  
 ✅ **Goal:** Build strong foundations in ML/AI and create a portfolio to crack an entry-level Data Science/ML job.
 
 ---
 
 ## 🗂 Repository Structure
-Each folder corresponds to one day of learning:
 AI-From-Zero-To-Hired/
 │
 ├── Day01_Numpy_Basics/
@@ -23,9 +33,6 @@ AI-From-Zero-To-Hired/
 ├── Day02_Pandas_Basics/
 │ ├── Day02_Pandas.ipynb
 │ └── notes.md
-├── Day03_Matplotlib_Seaborn/
-│ ├── Day03_Visualization.ipynb
-│ └── notes.md
 ...
 ├── Projects/
 │ ├── Mini_Project_1.ipynb
@@ -33,9 +40,10 @@ AI-From-Zero-To-Hired/
 │ └── README.md
 └── README.md
 
+
 ---
 
-## 🔥 Learning Plan
+## 🔥 Learning Plan (Progress Tracker)
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -95,4 +103,3 @@ AI-From-Zero-To-Hired/
 ---
 
 **Let’s go from Zero to Hired — together!**
-
