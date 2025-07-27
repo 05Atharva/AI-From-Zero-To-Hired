@@ -17,7 +17,6 @@ This repository is both my learning log and a free open resource for others!
 
 ## 📅 Schedule
 ✅ **Start Date:** 28‑July‑2025  
-✅ **Daily Time:** 6:00 PM IST  
 ✅ **Duration:** 30 days  
 ✅ **Goal:** Build strong foundations in ML/AI and create a portfolio to crack an entry-level Data Science/ML job.
 
@@ -46,8 +45,8 @@ AI-From-Zero-To-Hired/
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| 1 | NumPy Basics | ✅ |
-| 2 | NumPy Advanced | ✅ |
+| 1 | NumPy Basics | ⏳ |
+| 2 | NumPy Advanced |  ⏳|
 | 3 | Pandas Basics | ⏳ |
 | 4 | Pandas Advanced | ⏳ |
 | 5 | Matplotlib | ⏳ |
