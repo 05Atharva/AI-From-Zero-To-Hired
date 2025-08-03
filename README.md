@@ -50,8 +50,8 @@ AI-From-Zero-To-Hired/
 | 3    | Challenge + Revise  | Matrix ops, flatten/transpose, copy vs view, intersections.           | ✅ Complete   |
 | 4    | Pandas Basics       | Series, DataFrame, reading CSV, head/tail/info.                       | ✅ Complete   |
 | 5    | Pandas Advanced     | Merging, groupby, pivot, handling missing data.                       | ✅ Complete   |
-| 6    | Matplotlib          | Line, bar, scatter, subplots, customization.                          | ⏳ Upcoming   |
-| 7    | Seaborn             | Heatmaps, pairplots, categorical plots.                               | ⏳ Upcoming   |
+| 6    | Matplotlib          | Line, bar, scatter, subplots, customization.                          | ✅ Complete   |
+| 7    | Seaborn             | Heatmaps, pairplots, categorical plots.                               | ✅ Complete   |
 | 8    | Mini Project 1      | Load dataset (Iris/CSV), clean + visualize. Push results to GitHub.   | ⏳ Upcoming   |
 | 9    | Data Cleaning 101   | Handle nulls, types, formatting, text cleaning.                       | ⏳ Upcoming   |
 | 10   | Data Wrangling      | Melt, pivot, concat, transform.                                       | ⏳ Upcoming   |
