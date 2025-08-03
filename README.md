@@ -17,7 +17,7 @@ This repository is both my learning log and a free open resource for others!
 
 ## 📅 Schedule
 ✅ **Start Date:** 28‑July‑2025  
-✅ **Duration:** 30 days  
+✅ **Duration:** 31 days  
 ✅ **Goal:** Build strong foundations in ML/AI and create a portfolio to crack an entry-level Data Science/ML job.
 
 ---
@@ -43,40 +43,40 @@ AI-From-Zero-To-Hired/
 
 ## 🔥 Learning Plan (Progress Tracker)
 
-| Day | Topic | Status |
-|-----|-------|--------|
-| 1 | NumPy Basics | ⏳ |
-| 2 | NumPy Advanced |  ⏳|
-| 3 | Pandas Basics | ⏳ |
-| 4 | Pandas Advanced | ⏳ |
-| 5 | Matplotlib | ⏳ |
-| 6 | Seaborn | ⏳ |
-| 7 | Mini Project 1 | ⏳ |
-| 8 | Scikit-learn Intro | ⏳ |
-| 9 | Preprocessing | ⏳ |
-| 10 | Feature Engineering | ⏳ |
-| 11 | Linear Regression | ⏳ |
-| 12 | Logistic Regression | ⏳ |
-| 13 | KNN & SVM | ⏳ |
-| 14 | Mini Project 2 | ⏳ |
-| 15 | Decision Trees & Random Forests | ⏳ |
-| 16 | Gradient Boosting & XGBoost | ⏳ |
-| 17 | Model Evaluation | ⏳ |
-| 18 | Unsupervised Learning: KMeans | ⏳ |
-| 19 | Unsupervised Learning: PCA | ⏳ |
-| 20 | Mini Project 3 | ⏳ |
-| 21 | GitHub Cleanup Day | ⏳ |
-| 22 | Intro to Neural Networks (Keras/TensorFlow) | ⏳ |
-| 23 | CNN Basics | ⏳ |
-| 24 | Transfer Learning | ⏳ |
-| 25 | NLP Basics | ⏳ |
-| 26 | Pretrained NLP Models | ⏳ |
-| 27 | Model Deployment Concepts | ⏳ |
-| 28 | Mini Project 4 | ⏳ |
-| 29 | Portfolio Building | ⏳ |
-| 30 | Mock Interview Prep | ⏳ |
+| Day  | Topic               | Goals                                                                 | Status       |
+|------|---------------------|------------------------------------------------------------------------|--------------|
+| 1    | NumPy Basics        | Arrays, indexing, broadcasting, math ops.                             | ✅ Complete   |
+| 2    | NumPy Advanced      | Random module, statistics, linear algebra.                            | ✅ Complete   |
+| 3    | Challenge + Revise  | Matrix ops, flatten/transpose, copy vs view, intersections.           | ✅ Complete   |
+| 4    | Pandas Basics       | Series, DataFrame, reading CSV, head/tail/info.                       | ✅ Complete   |
+| 5    | Pandas Advanced     | Merging, groupby, pivot, handling missing data.                       | ✅ Complete   |
+| 6    | Matplotlib          | Line, bar, scatter, subplots, customization.                          | ⏳ Upcoming   |
+| 7    | Seaborn             | Heatmaps, pairplots, categorical plots.                               | ⏳ Upcoming   |
+| 8    | Mini Project 1      | Load dataset (Iris/CSV), clean + visualize. Push results to GitHub.   | ⏳ Upcoming   |
+| 9    | Data Cleaning 101   | Handle nulls, types, formatting, text cleaning.                       | ⏳ Upcoming   |
+| 10   | Data Wrangling      | Melt, pivot, concat, transform.                                       | ⏳ Upcoming   |
+| 11   | DateTime in Pandas  | Parse dates, set index, resample.                                     | ⏳ Upcoming   |
+| 12   | EDA with Pandas     | Univariate, bivariate, multivariate analysis.                         | ⏳ Upcoming   |
+| 13   | Regex + Text Data   | Text cleaning with regex, handling categorical/text columns.          | ⏳ Upcoming   |
+| 14   | Mini Project 2      | EDA and cleaning on a real-world dataset (Titanic/Netflix/etc.).      | ⏳ Upcoming   |
+| 15   | Matplotlib Advance  | Multiple axes, legends, annotations, layout.                          | ⏳ Upcoming   |
+| 16   | Seaborn Advance     | Custom palettes, advanced grids, statistical plots.                   | ⏳ Upcoming   |
+| 17   | Plotly Basics       | Interactive plots: line, bar, scatter.                                | ⏳ Upcoming   |
+| 18   | Plotly Advance      | Maps, subplots, 3D plots.                                             | ⏳ Upcoming   |
+| 19   | Mini Project 3      | Dashboard with Plotly + real data.                                    | ⏳ Upcoming   |
+| 20   | Intro to Stats      | Mean, median, mode, std, correlation, distribution.                   | ⏳ Upcoming   |
+| 21   | Probability         | Basics of probability theory, events, Bayes.                          | ⏳ Upcoming   |
+| 22   | Hypothesis Testing  | T-test, chi-square, ANOVA.                                            | ⏳ Upcoming   |
+| 23   | Distributions       | Normal, binomial, Poisson with visualization.                         | ⏳ Upcoming   |
+| 24   | Mini Project 4      | Apply stats knowledge on a dataset.                                   | ⏳ Upcoming   |
+| 25   | Sklearn Intro       | What is ML? How does sklearn work? Load & prepare data.               | ⏳ Upcoming   |
+| 26   | Classification      | Logistic regression, k-NN.                                            | ⏳ Upcoming   |
+| 27   | Regression          | Linear regression, metrics (MSE, RMSE, R²).                           | ⏳ Upcoming   |
+| 28   | Model Evaluation    | Train-test split, cross-validation, confusion matrix.                 | ⏳ Upcoming   |
+| 29   | Feature Selection   | Scaling, encoding, feature importance.                                | ⏳ Upcoming   |
+| 30   | Mini Project 5      | ML problem from scratch (e.g., predict prices).                       | ⏳ Upcoming   |
+| 31   | Wrap-up + GitHub    | Review, organize notes, final commits, update README.                 | ⏳ Upcoming   |
 
----
 
 ## 💡 How to Use This Repo
 - Browse folders day-wise to follow along.
